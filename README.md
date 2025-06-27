@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Fanzzs!
 ### 💻 Fullstack Developer | Node.js Enthusiast | Passionate about Web Tech
 
-- 🔭 I’m currently working on [NamaProyek](link)
-- 🌱 I’m currently learning Docker, Kubernetes, and TypeScript
+- 🔭 I’m currently working on PT Urban Mandiri Group
+- 🌱 I’m currently learning Docker, Kubernetes, TypeScript, Node.js
 - 💬 Ask me about anything related to Node.js, PostgreSQL, or Express
-- 📫 How to reach me: [Instagram](link) | [LinkedIn](link) | [Email](mailto:email@example.com) 
+- 📫 How to reach me: [Instagram](https://instagram.com/irfanzzs.id) | [LinkedIn](www.linkedin.com/in/mirfansyah-webdev) | [Email](syah90009@gmail.com) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love reverse engineering websites and creating mini tools
+- ⚡ Fun fact: I love Programming websites and creating mini tools
 
 
 
