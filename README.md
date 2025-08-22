@@ -12,10 +12,10 @@
 
  ![Fanzzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanzzs&show_icons=true&theme=tokyonight)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanzzs&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanzz-log&layout=compact)
  
- ![GitHub followers](https://img.shields.io/github/followers/fanzzs?style=social)
- ![Profile views](https://komarev.com/ghpvc/?username=fanzzs&color=blue)
+ ![GitHub followers](https://img.shields.io/github/followers/irfanzz-log?style=social)
+ ![Profile views](https://komarev.com/ghpvc/?username=irfanzz-log&color=blue)
 
 
 
