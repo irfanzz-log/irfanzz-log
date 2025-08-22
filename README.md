@@ -10,7 +10,7 @@
 
 
 
- ![Fanzzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanzzs&show_icons=true&theme=tokyonight)
+ ![Fanzzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanzz-log&show_icons=true&theme=tokyonight)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanzz-log&layout=compact)
  
