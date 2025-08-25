@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fanzzs!
-### 💻 Fullstack Developer | Node.js Enthusiast | Passionate about Web Tech
+### 💻 Fullstack Developer | Node.js Enthusiast | Passionate about Web and Native Tech
 
 - 🔭 I’m currently working on PT Urban Mandiri Group
 - 🌱 I’m currently learning Docker, Kubernetes, TypeScript.
