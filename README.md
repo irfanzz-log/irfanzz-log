@@ -2,8 +2,8 @@
 ### 💻 Fullstack Developer | Node.js Enthusiast | Passionate about Web Tech
 
 - 🔭 I’m currently working on PT Urban Mandiri Group
-- 🌱 I’m currently learning Docker, Kubernetes, TypeScript, Node.js
-- 💬 Ask me about anything related to Node.js, PostgreSQL, or Express
+- 🌱 I’m currently learning Docker, Kubernetes, TypeScript.
+- 💬 Ask me about anything related to Node.js, React.js, Next.js, React-Native, EJS, PostgreSQL, or Express.
 - 📫 How to reach me: [Instagram](https://instagram.com/irfanzzs.id) | [LinkedIn](www.linkedin.com/in/mirfansyah-webdev) | [Email](syah90009@gmail.com) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Programming websites and creating mini tools
